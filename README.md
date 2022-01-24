@@ -3,5 +3,5 @@ Bankruptcy Prediction Analysis was our final project for CS 513 under Professor 
 
 Guiding Professor            : Prof. Khasha Dehnad  
 Languages and Libraries used : Python, Numpy, Pandas, Matplotlib,  Seaborn, Scikit-Learn, Tensorflow  
-Link to the dataset          : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
+Link to the dataset          : [https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)
 
